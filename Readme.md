@@ -1,4 +1,4 @@
-                                     Web Design Homework - Web Visualization Dashboard (Latitude)
+                             Web Design Homework - Web Visualization Dashboard (Latitude)
 
 Deployed link: https://manishalal145.github.io/webdesignchallenge/index.html
 
