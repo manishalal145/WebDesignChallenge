@@ -24,3 +24,13 @@ The website consists of 7 pages total, including:
 4) A "Data" page that:
 - Displays a responsive table containing the data used in the visualizations.</br>
 ![Hml image](/Images/data.png)
+
+Note:- The website is at the top of every page, and have a navigation menu for plots, comparison, Data, and My page (Portfolio page)
+
+- Has the name of the site on the left of the nav which allows users to return to the landing page from any page.
+- A dropdown menu created on the right of the navbar named "Plots" that provides a link to each individual visualization page.
+- Provided two more text links on the right: "Comparisons," which links to the comparisons page, and "Data," which links to the data page.
+- A responsive navigation menu created by using media queries, and the background color will also change when it goes from large to small page. </br>
+
+Small screen: </br>
+![Navigation page small screen](/Images/smaller.png) </br>
